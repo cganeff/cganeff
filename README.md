@@ -1,11 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Cristina Ganeff 👩‍💻 </h1>
 
 <p align='center'>
-  I live in Rio de Janeiro, Brazil and I'm a Front End Developer in development...  
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=cganeff??style=for-the-badge&logo=appveyor"></a>
+  I live in Rio de Janeiro, Brazil and I'm a Front End Developer, always in development...  
 </p>
 
 
